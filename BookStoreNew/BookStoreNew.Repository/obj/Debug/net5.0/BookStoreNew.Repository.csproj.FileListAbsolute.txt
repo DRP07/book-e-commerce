@@ -1,0 +1,15 @@
+D:\tatva soft\BookStoreNew\BookStoreNew.Repository\bin\Debug\net5.0\BookStoreNew.Repository.deps.json
+D:\tatva soft\BookStoreNew\BookStoreNew.Repository\bin\Debug\net5.0\BookStoreNew.Repository.dll
+D:\tatva soft\BookStoreNew\BookStoreNew.Repository\bin\Debug\net5.0\BookStoreNew.Repository.pdb
+D:\tatva soft\BookStoreNew\BookStoreNew.Repository\bin\Debug\net5.0\BookStoreNew.Models.dll
+D:\tatva soft\BookStoreNew\BookStoreNew.Repository\bin\Debug\net5.0\BookStoreNew.Models.pdb
+D:\tatva soft\BookStoreNew\BookStoreNew.Repository\obj\Debug\net5.0\BookStoreNew.Repository.csproj.AssemblyReference.cache
+D:\tatva soft\BookStoreNew\BookStoreNew.Repository\obj\Debug\net5.0\BookStoreNew.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\tatva soft\BookStoreNew\BookStoreNew.Repository\obj\Debug\net5.0\BookStoreNew.Repository.AssemblyInfoInputs.cache
+D:\tatva soft\BookStoreNew\BookStoreNew.Repository\obj\Debug\net5.0\BookStoreNew.Repository.AssemblyInfo.cs
+D:\tatva soft\BookStoreNew\BookStoreNew.Repository\obj\Debug\net5.0\BookStoreNew.Repository.csproj.CoreCompileInputs.cache
+D:\tatva soft\BookStoreNew\BookStoreNew.Repository\obj\Debug\net5.0\BookStoreNew.Repository.csproj.CopyComplete
+D:\tatva soft\BookStoreNew\BookStoreNew.Repository\obj\Debug\net5.0\BookStoreNew.Repository.dll
+D:\tatva soft\BookStoreNew\BookStoreNew.Repository\obj\Debug\net5.0\refint\BookStoreNew.Repository.dll
+D:\tatva soft\BookStoreNew\BookStoreNew.Repository\obj\Debug\net5.0\BookStoreNew.Repository.pdb
+D:\tatva soft\BookStoreNew\BookStoreNew.Repository\obj\Debug\net5.0\ref\BookStoreNew.Repository.dll
